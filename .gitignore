@@ -1,0 +1,14 @@
+results/
+trained_results/
+__pycache__/
+*.py[cod]
+*.class
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.h5
+.DS_Store
+.vscode/
+.idea/
+*.log

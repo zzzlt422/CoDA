@@ -1,0 +1,10 @@
+airfield
+airplane_cabin
+airport_terminal
+alcove
+alley
+amphitheater
+amusement_arcade
+amusement_park
+apartment_building-outdoor
+aquarium
