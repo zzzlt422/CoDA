@@ -1,6 +1,8 @@
-# CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation
+**[ICLR 2026]** This repository contains the official implementation of the paper: **"CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation"**.
 
-This repository contains the official implementation of the paper: **"CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation"**.
+## 🔥 News
+- **[2026.01.26]** 🎉 We are thrilled to announce that **CoDA** has been accepted to **ICLR 2026**!
+- **[2025.12.04]** CoDA is released on [arXiv](https://arxiv.org/abs/2512.03844).
 
 ## 📖 Introduction
 
